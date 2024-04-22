@@ -1,0 +1,22 @@
+.main{
+    background-color: whitesmoke;
+    margin: 5rem 15rem;
+    text-align: center;
+}
+
+h1{
+    /* background-color: yellow; */
+    background-image: linear-gradient(red, yellow, green);
+    color: darkblue;
+    padding: 1rem;
+}
+
+.card-holder{
+    padding: 5rem 10rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5rem;
+    
+}
+
